@@ -20,7 +20,7 @@ class CreateNewspagersTable extends Migration
             $table->string('magazine_issue');
             $table->string('magazine_page');
             $table->string('address');
-            $table->string('magazine_page');
+            $table->string('year');
             $table->string('magazine_page');
             $table->string('magazine_page');
             $table->string('magazine_page');
